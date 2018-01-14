@@ -1,13 +1,13 @@
-#KERBER|OS
-##FACT SHEET
+# KERBER|OS
+## FACT SHEET
 
 
-###DESCRIPTION
+### DESCRIPTION
 
 KERBER|OS does represent a new era of blockchain and cryptocurrency focusing on transaction privacy, knowledge sharing trough sophisticated p2p AI research (free and open source) and social content and identity protection.
 
 
-###FEATURES
+### FEATURES
 
 XMSS Quantum resistant hash tree for every Wallet for efficient hacking prevention even 10 years from now. (ready)
 
@@ -38,12 +38,12 @@ Size of chain reduced considerably compared to other blockchain (ETH: ±20GB, KE
 250,000 Transactions per seconds / 150,000 at peak time (planned at official launch need more testing)
 
 
-###ALGORITHMS USED
+### ALGORITHMS USED
 
 SHA256, Blake2b, Equihash, SRP, XMSS, AES
 
 
-###LANGUAGES & FRAMEWORKS
+### LANGUAGES & FRAMEWORKS
 
 Python 3.6
 GCC / C++
@@ -55,7 +55,7 @@ TORNADO (TRACKER)
 TENSORFLOW (P2P Machine Learning)
 
 
-THE CRYPTOCURRENCY KERBEROCOIN
+### THE CRYPTOCURRENCY KERBEROCOIN
 
 Those specs are subject to change when launched. Availability is the specification that will most than likely change as we are still looking to the best amount of coins available to make the ideal balance of ROI vs USABILITY.
 

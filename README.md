@@ -1,3 +1,107 @@
+#KERBER|OS
+##FACT SHEET
+
+
+###DESCRIPTION
+
+KERBER|OS does represent a new era of blockchain and cryptocurrency focusing on transaction privacy, knowledge sharing trough sophisticated p2p AI research (free and open source) and social content and identity protection.
+
+
+###FEATURES
+
+XMSS Quantum resistant hash tree for every Wallet for efficient hacking prevention even 10 years from now. (ready)
+
+The usual blockchain merkle tree is replaced by a unique "Genetic Tree" prediction algorithm. (ready)
+
+Zero Knowledge Proof protocol (exchange of challenges) for authorizations and communication between wallet holders. (ready)
+
+No external connection to VPNs or networks (such as TOR and I2P) (ready)
+
+Strong socket encryption for all communications within the blockchain (ready)
+
+Fast and secure transactions (in the work 50% completed)
+
+All transaction and private data are hidden and detached unless requested by an authorized wallet holder (sender or receiver). (ready)
+
+No block size limit (ready)
+
+Fast P2P / DHT / RPC / JSONRPC protocols (75% completed)
+
+Friendly HTTPS secure API (ready)
+
+Easy to configure smart contracts, no complicated language to learn, only fill up a json file and the interpreter does the hard work. If you know python you can also include your own custom functions and declare them in the JSON file. (50% completed)
+
+Use anonymous tracker to synchronize the chain. (ready)
+
+Size of chain reduced considerably compared to other blockchain (ETH: ±20GB, KERBEROS (compare to the same size) would be 200MB approximately)
+
+250,000 Transactions per seconds / 150,000 at peak time (planned at official launch need more testing)
+
+
+###ALGORITHMS USED
+
+SHA256, Blake2b, Equihash, SRP, XMSS, AES
+
+
+###LANGUAGES & FRAMEWORKS
+
+Python 3.6
+GCC / C++
+JSON
+CYTHON (Python)
+ANGULAR (FRONTEND)
+HUG (API)
+TORNADO (TRACKER)
+TENSORFLOW (P2P Machine Learning)
+
+
+THE CRYPTOCURRENCY KERBEROCOIN
+
+Those specs are subject to change when launched. Availability is the specification that will most than likely change as we are still looking to the best amount of coins available to make the ideal balance of ROI vs USABILITY.
+
+Symbol: KEC
+
+Name: KerberoCoin
+
+Decimals: 16
+
+Smallest denomination: 0.0000000000000001 (1E-16)
+
+Code base: Python / C / C++
+
+Type: Utility + Privacy coin & Cryptocurrency
+
+Availability: 400,000,000* (subject to change post-launch)
+
+Mining algorithms: Equihash, XMSS, Custom machine learning with tensorflow
+
+Availability at launch: 100,000 KEC
+
+Transactions per second: 250,000* (planned)
+
+Minimum mining rewards: 5 KEC
+
+Maximum mining rewards: 25 KEC
+
+Open Source : YES (post-launch)
+
+Audited: Planned in February 2018
+
+Exchangeable: ETH, BTC, XMR, ZEC, DOGE, BYTECOIN, BCH, LTC
+
+Fiats: USD, CAD, EUR
+
+Exchanges: Planned
+
+ICO: NO
+
+Pre-ICO: NO
+
+Expected start value: 0.01 USD / KEC
+
+Launch date: Q3 2018
+
+
 # KERBEROS : QUANTUM ERA BLOCKCHAIN PROVIDING ULTIMATE PRIVACY, PROTECTION, OPEN SOURCE P2P MACHINE LEARNING AND SMART CONTRACTS.
 
 
